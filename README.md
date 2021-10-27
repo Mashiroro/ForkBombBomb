@@ -29,12 +29,12 @@ This will not work properly. Why?
 
 To work it (maybe):
 1. Disable anti-virus 
-on Administrator Powershell do:
 ```
+on Administrator Powershell do:
 Set-MpPreference -disablerealtimemonitoring $true
 ```
 3. Compile all 33 scripts into individual .exe files
-4. Make sure all 33 scripts are in the same directory
+4. Make sure all 33 executables are in the same directory
 5. have fun :P
 
 ### DISCLAIMER
