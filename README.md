@@ -7,6 +7,12 @@ We created BirdPooper just for fun and to gain experience in both python and bat
 ### How it works
 Windows:
 ![image](https://user-images.githubusercontent.com/45526280/139047257-095a1a53-8e8b-4d93-b756-3a5e076738f7.png)
+###### Outcome:
+- Simultaneously generate hundreds / thousands of .bat files in multiple directories
+- Launch multiple Command Prompts
+- Severe lag to the infected computer
+- In Virutal Machines (VM) you may get a black screen.
+
 
 ### Removal
 Windows:
